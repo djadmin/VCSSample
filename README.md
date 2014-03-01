@@ -1,4 +1,4 @@
 VCSSample
 =========
 
-Sample Codes for the VCS Analysis
+Sample Codes in different programming languages for the VCS Analysis
